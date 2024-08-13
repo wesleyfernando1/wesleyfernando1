@@ -1,5 +1,5 @@
-- 👋 Hi, I’m **wesleyfernando**
-
+- 👋 **Oi, eu sou**  **Wesley Fernando**
+- sou estudante
 
 <!---
 wesleyfernando1/wesleyfernando1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
